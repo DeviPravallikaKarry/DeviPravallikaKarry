@@ -101,7 +101,7 @@ Building healthcare analytics and AI-powered solutions that help convert healthc
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn:(https://www.linkedin.com/in/devi-pravallika-karry-b265211a6/)
+🔗 [LinkedIn](https://www.linkedin.com/in/devi-pravallika-karry-b265211a6/)
 
 💻 GitHub: github.com/DeviPravallikaKarry
 
